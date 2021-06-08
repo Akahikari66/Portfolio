@@ -1,3 +1,5 @@
 Mon magnifique, splendide, éclatant...texte.
 
 Ici un ajout.
+
+test checkout.
