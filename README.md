@@ -38,3 +38,21 @@ Bonus : Dans la navigation, indiquer la page sur laquelle on est en l’écrivan
 Mon Portfolio en PHP, HTML/CSS.
 
 **J'ai intégré le TP dans Portfolio2.**
+
+## Commandes terminal (Bash, Git, Docker...)
+
+* git status  : 
+* git branch  : montre toutes les branches
+* ls  : liste en ligne
+* ls -l (ou ll): liste en colonne 
+* ls -la : afficher aussi les dossier caché dans la liste
+* docker ps  : liste les conteneurs qui tourne sur la machine
+* exit  : quitte la commande bash et le conteneur
+* docker-machine --help
+* docker-machine ls  : liste toutes les machines
+
+* run
+* push  : va chercher et télécharge (si manquant) l'objet voulu
+* pull
+* start  : démarre (un container ou autre)
+* stop  : arrête (un container ou autre)
