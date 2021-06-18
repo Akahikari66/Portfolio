@@ -10,7 +10,7 @@ Page contact
 Le site contient une navigation entre les 3 pages via son header.
 
 
-Le formulaire de la page Contact contient plusieurs entrées :Nom, Prénom, Email, Sujet, Message, Case à cocher "En validant ce formulaire, vous acceptez d’être contacté"
+Le formulaire de la page Contact contient plusieurs entrées : Nom, Prénom, Email, Sujet, Message, Case à cocher "En validant ce formulaire, vous acceptez d’être contacté"
 
 La validation du formulaire se fait via un bouton de type “submit” qui redirige vers une page de traitement (traitement.php)
 
