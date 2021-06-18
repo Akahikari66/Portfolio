@@ -49,8 +49,8 @@ Mon Portfolio en PHP, HTML/CSS.
 * git commit  : pour se laisser un message des changements ajouter au fichier
 * git branch  : montre toutes les branches
 * gitk  : afficher les commit (être dans le dépôt git)
-* apt update  : affiche les update possible
-* apt upgrade  : démarre les upgrade possible (demande l'autorisation o/n ou y/n avec mdp)
+* sudo apt update  : affiche les update possible
+* sudo apt upgrade  : démarre les upgrade possible (demande l'autorisation o/n ou y/n avec mdp)
 
 
 * ls  : liste en ligne
@@ -69,3 +69,6 @@ Toujours suivi de ce que l'on veut :
 * stop  : arrête (un container ou autre)
 * rm  : supprimer
 * apt install  : installer
+
+Rappel :
+* sudo  : permet à un utilisateur autorisé d'exécuter une commande en tant que superutilisateur
