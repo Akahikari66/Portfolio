@@ -1,6 +1,8 @@
 # Fonctionnement du repo (fichiers présents et leur rôle)
 
-## TP_PHP
+## Portfolio
+
+### TP_PHP
 
 Vous devez réaliser un portfolio de 3 pages :
 Page accueil, contenant, une image (photo de vous) et un texte vous présentant (quelques lignes)
@@ -33,7 +35,7 @@ Envoyez le lien vers notre hébergement + notre code source + notre TODO à son 
 
 Bonus : Dans la navigation, indiquer la page sur laquelle on est en l’écrivant en gras
 
-## Portfolio :
+### Dans mon Portfolio :
 
 Mon Portfolio en PHP, HTML/CSS.
 
