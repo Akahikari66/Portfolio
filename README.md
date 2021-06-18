@@ -21,15 +21,13 @@ Cordialement”
 
 Envoyez un email contenant un sujet (“contact via le site”) puis le contenu de chacun des champs (au pire juste le contenu du champ Message) .
 
-Si la case n’est pas cochée, vous afficherez :
-“Merci de bien vouloir cocher les CGU”
-
+Si la case n’est pas cochée, vous afficherez :“Merci de bien vouloir cocher les CGU”
 
 Avant de coder, faites une liste des tâches à effectuer pour réaliser à bien cette tâche.
 
 Le site devra être mis en ligne sur votre hébergement (alwaysdata ou autre).
 
-Vous m’envoyez le lien vers votre hébergement + votre code source + votre TODO à philippe@baudelot.eu
+Envoyez le lien vers notre hébergement + notre code source + notre TODO à son adresse mail.
 
 Bonus : Dans la navigation, indiquer la page sur laquelle on est en l’écrivant en gras
 
