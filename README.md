@@ -41,8 +41,13 @@ Mon Portfolio en PHP, HTML/CSS.
 
 ## Commandes terminal (Bash, Git, Docker...)
 
-* git status  : 
+* git status  : détecte les changements
+* git add  :
+* git push : pour envoyer le commit sur GitHub
+* git commit  : pour se laisser un message des changements ajouter au fichier
 * git branch  : montre toutes les branches
+* gitk  : afficher les commit (être dans le dépôt git)
+
 * ls  : liste en ligne
 * ls -l (ou ll): liste en colonne 
 * ls -la : afficher aussi les dossier caché dans la liste
