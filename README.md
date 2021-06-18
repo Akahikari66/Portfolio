@@ -48,6 +48,7 @@ Mon Portfolio en PHP, HTML/CSS.
 * git branch  : montre toutes les branches
 * gitk  : afficher les commit (être dans le dépôt git)
 
+
 * ls  : liste en ligne
 * ls -l (ou ll): liste en colonne 
 * ls -la : afficher aussi les dossier caché dans la liste
@@ -56,8 +57,10 @@ Mon Portfolio en PHP, HTML/CSS.
 * docker-machine --help
 * docker-machine ls  : liste toutes les machines
 
+Toujours suivi de ce que l'on veut :
 * run
 * push  : va chercher et télécharge (si manquant) l'objet voulu
 * pull
 * start  : démarre (un container ou autre)
 * stop  : arrête (un container ou autre)
+* rm  : supprimer
