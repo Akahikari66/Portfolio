@@ -1,0 +1,145 @@
+* {
+    box-sizing: border-box;
+  }
+    
+  body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    background-position : top center;
+    text-align: justify;
+  }
+  
+  .header {
+    padding: 5%;
+    text-align: center;
+    background-image: url("fleur_cerisier1bis.jpg");
+    color: rgb(51, 11, 11);
+  }
+  
+  h1 {
+    font-size: 40px;
+  }
+  
+    .navbar {
+      overflow: hidden;
+      background-color: rgb(204, 202, 202);
+    }
+    
+    .navbar a {
+      float: left;
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 14px 20px;
+      text-decoration: none;
+    }
+    
+    .navbar a.right {
+      float: right;
+    }
+    
+    .navbar a:hover {
+      background-color: #ddd;
+      color: rgb(228, 187, 206);
+    }
+  
+  .both {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .side {
+    flex: 30%;
+    background-color: whitesmoke;
+    padding: 20px;
+    border: 5px solid rgb(204, 202, 202);
+    border-radius: 1em;
+  }
+  
+  .main {
+    flex: 70%;
+    background-color: white;
+    padding: 20px;
+  }
+  
+    .pp1 {
+      background-color: rgb(235, 203, 218);
+      width: 100%;
+      padding: 20px;
+    }
+  
+    .comp{
+      text-align: center;
+      display: flex;
+      flex-wrap: wrap;
+    }
+  
+    .left_comp {
+      flex: 50%;
+      padding: 20px;
+    }
+  
+    .right_comp {
+      flex: 50%;
+      padding: 20px;
+    }
+  
+    .hobby {
+      padding: 2%;
+    }
+  
+    .both_contact {
+      display: flex;
+      flex-wrap: wrap;
+    }
+  
+    .left_contact {
+      flex: 70%;
+      background-color: white;
+      padding: 20px;
+    }
+  
+    .right_contact {
+      flex: 30%;
+      background-color: whitesmoke;
+      padding: 20px;
+      padding-left: 70px;
+    }
+  
+    .contact_contact {
+        padding-top: 7em;
+    }
+  
+    form {
+      margin: auto;
+      width: 600px;
+      padding: 1em;
+      border: 10px solid rgb(204, 202, 202);
+      border-radius: 1em;
+    }
+  
+    form div + div {
+      margin-top: 1em;
+    }
+  
+    #formu {
+      text-align: center;
+      font-size: 2.5em;
+    }
+  
+    input, label, textarea {
+      font-family : inherit;
+      font-size   : 100%;
+    }
+  
+    .sexe {
+      margin-left: 2em;
+    }
+  
+    .reseaux {}
+  
+    .footer {
+      padding: 10px;
+      text-align: center;
+      background-color: whitesmoke;
+    }
